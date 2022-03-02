@@ -1,0 +1,9 @@
+D:\Code\SynologyDrive\work\工业智能控制系统\工业智能控制系统\obj\Debug\工业智能控制系统.Properties.Resources.resources
+D:\Code\SynologyDrive\work\工业智能控制系统\工业智能控制系统\obj\Debug\工业智能控制系统.FrMain.resources
+D:\Code\SynologyDrive\work\工业智能控制系统\工业智能控制系统\obj\Debug\工业智能控制系统.csproj.GenerateResource.cache
+D:\Code\SynologyDrive\work\工业智能控制系统\工业智能控制系统\obj\Debug\工业智能控制系统.csproj.CoreCompileInputs.cache
+D:\Code\SynologyDrive\work\工业智能控制系统\工业智能控制系统\bin\Debug\工业智能控制系统.exe.config
+D:\Code\SynologyDrive\work\工业智能控制系统\工业智能控制系统\bin\Debug\工业智能控制系统.exe
+D:\Code\SynologyDrive\work\工业智能控制系统\工业智能控制系统\bin\Debug\工业智能控制系统.pdb
+D:\Code\SynologyDrive\work\工业智能控制系统\工业智能控制系统\obj\Debug\工业智能控制系统.exe
+D:\Code\SynologyDrive\work\工业智能控制系统\工业智能控制系统\obj\Debug\工业智能控制系统.pdb
